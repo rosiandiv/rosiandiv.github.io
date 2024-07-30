@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rosiandiv.github.io/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/app/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/assets/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/css/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/includes/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/item/sitemap.html.gz
+Sitemap: https://rosiandiv.github.io/src/sitemap.html.gz
